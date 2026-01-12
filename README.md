@@ -6,3 +6,8 @@ The project consists of an expense and payment management system, designed and i
 The solution was implemented in C# with .NET 8, including a console application and a web application built with ASP.NET MVC, featuring role-based access, business logic separation, and deployment to Microsoft Azure.
 
 This project was developed as part of an academic evaluation, following course constraints (no LINQ, explicit validations, layered architecture).
+
+## Authors
+
+- Romina Toledo (GitHub: @rominatc88)
+- Francisco Claramunt (GitHub: @FranciscoClaramunt)
